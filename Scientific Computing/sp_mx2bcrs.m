@@ -1,5 +1,4 @@
 function [val,col_idx,row_blk] = sp_mx2bcrs(A,nb)
-% Author: ?. ??????????, ?? 1054321, Date 13/2/2021
 
 [m,n] = size(A);
 if m~=n; error('Oi diastaseis tou mhtrwou den einai idies!'); end
