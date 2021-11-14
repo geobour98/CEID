@@ -1,5 +1,4 @@
 function y = spmv_bcrs(y,val,col_idx,row_blk,x)
-% Author: ?. ??????????, ?? 1054321, Date 14/2/2021
 
 [m,n] = size(val);
  
