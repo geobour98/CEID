@@ -5,7 +5,7 @@ How to run E-LIBRARY:
  
 	unzip e-library.zip
 	go to src
-      	run main
+	run main
       
 Here are some existing snapshots for testing:
       
