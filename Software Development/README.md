@@ -3,7 +3,7 @@ This is an e-library in java made by 4 colleagues using Apache Netbeans IDE.
 
 How to run E-LIBRARY:
 
-how to execute 
+How to run E-LIBRARY: 
  
       unzip e-library.zip
       go to src
